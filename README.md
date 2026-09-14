@@ -228,8 +228,17 @@ flowchart LR
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hanu0745&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=22d3ee&icon_color=a78bfa&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanu0745&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1020&title_color=22d3ee&text_color=c9d1d9&langs_count=8" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanu0745&theme=tokyonight" width="95%" alt="Profile details" />
+</div>
+
+<div align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hanu0745&theme=tokyonight" alt="GitHub stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hanu0745&theme=tokyonight" alt="Repos per language" />
+</div>
+
+<div align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hanu0745&theme=tokyonight" alt="Most committed languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hanu0745&theme=tokyonight&utcOffset=5.5" alt="Productive time" />
 </div>
 
 <div align="center">
