@@ -13,8 +13,6 @@
 
 <div align="center">
   <a href="https://hanu.kaziva.in"><img src="https://img.shields.io/badge/Portfolio-hanu.kaziva.in-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/hanumanthu-buddha-b80a25214"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:bhanumanthu450@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://hanu.kaziva.in/hanumanthu-buddha-resume.pdf"><img src="https://img.shields.io/badge/Resume-Download-7c3aed?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
   <a href="https://play.google.com/store/apps/details?id=com.vaktora.app"><img src="https://img.shields.io/badge/Vaktora-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Vaktora on Google Play" /></a>
 </div>
@@ -31,25 +29,34 @@
 <!-- ═══════════════════════════════ ABOUT ═══════════════════════════════ -->
 ## 🧠 About Me
 
-```typescript
-const hanu = {
-  role:       "AI Full Stack Developer @ Aditya University (2023 → present)",
-  founder:    "Kaziva — a software products company; Vaktora is its first product",
-  builds:     ["AI-integrated web & mobile apps", "real-time systems", "multi-tenant SaaS"],
-  stack:      ["React", "React Native", "Next.js", "Node.js", "Spring Boot 3", "MongoDB", "PostgreSQL", "Redis"],
-  ai:         ["OpenAI API", "Claude API", "Whisper", "local LLMs (Kimi)", "evaluation pipelines", "fallback routing"],
-  scale:      "10,000+ users · 99.9% uptime · 6 production apps led",
-  learning:   ["Spring Boot internals", "RAG", "agentic AI workflows"],
-  openTo:     ["full-stack & AI engineering roles", "open-source collaboration", "AI product partnerships"],
-  funFact:    "I enjoy turning complex ideas into real-world applications",
-};
-```
+I'm a full-stack engineer who builds AI-integrated, real-time products from the first schema to the release pipeline. Over the last three years at **Aditya University** I have shipped production applications on Node.js, React, React Native and MongoDB that serve **10,000+ users at 99.9% uptime**.
 
-- 🔭 **Currently building** → AI-powered web & mobile products at [Kaziva](https://kaziva.in), starting with [Vaktora](https://vaktora.app)
-- 🌱 **Currently learning** → Spring Boot, RAG and agentic AI integrations
-- 👯 **Looking to collaborate on** → AI-powered web, mobile and open-source projects
-- 💬 **Ask me about** → LLM evaluation pipelines, real-time architecture, React / React Native, scalable Node.js backends
-- 📫 **Reach me at** → [bhanumanthu450@gmail.com](mailto:bhanumanthu450@gmail.com)
+My work sits where backend architecture meets applied AI: event-driven services on Redis and BullMQ, live Socket.IO sessions, JWT and role-based access for multi-tenant platforms, and LLM evaluation pipelines that turn a candidate's spoken answer into a score and specific, actionable feedback.
+
+I'm also building **[Kaziva](https://kaziva.in)**, a software products company. Its first product, **[Vaktora](https://vaktora.app)**, is an AI interview-prep app now live on Google Play.
+
+<table>
+  <tr>
+    <td>🔭 <b>Currently building</b></td>
+    <td>AI-powered web and mobile products at Kaziva, starting with Vaktora</td>
+  </tr>
+  <tr>
+    <td>🌱 <b>Currently learning</b></td>
+    <td>Spring Boot internals, RAG and agentic AI workflows</td>
+  </tr>
+  <tr>
+    <td>👯 <b>Open to</b></td>
+    <td>Full-stack and AI engineering roles, open-source collaboration, AI product partnerships</td>
+  </tr>
+  <tr>
+    <td>💬 <b>Ask me about</b></td>
+    <td>LLM evaluation pipelines, real-time architecture, React / React Native, scalable Node.js and Spring Boot backends</td>
+  </tr>
+  <tr>
+    <td>⚡ <b>Fun fact</b></td>
+    <td>I enjoy turning complex ideas into real-world applications</td>
+  </tr>
+</table>
 
 <br/>
 
@@ -240,7 +247,6 @@ flowchart LR
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hanumanthu-buddha-b80a25214"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://hanu.kaziva.in"><img src="https://img.shields.io/badge/Portfolio-06b6d4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://kaziva.in"><img src="https://img.shields.io/badge/Kaziva-5b21b6?style=for-the-badge&logo=rocket&logoColor=white" alt="Kaziva" /></a>
   <a href="mailto:bhanumanthu450@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://instagram.com/mr_h_a_n_u"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
